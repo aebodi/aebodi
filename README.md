@@ -27,5 +27,7 @@
 <br>
 
 
+![Preview](https://spotify-live-banner.vercel.app/?spin=false&scan=true&eq_color=rainbow&theme=dark)
 
+**Hustling! Powered by music** 🎵😌
 <hr>
